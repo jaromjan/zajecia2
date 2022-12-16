@@ -1,4 +1,5 @@
 
+przywitaj sie
 wlacz koparke
 podjedz koparka
 pobierz oczekiwana glebokosc dolu
