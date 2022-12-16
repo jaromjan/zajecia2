@@ -1,1 +1,8 @@
 
+wlacz koparke
+podjedz koparka
+dopoki wielkosc dolu jest mniejsza 2m:
+	poglebiaj dol
+odjedz koparka
+wylacz koparke
+
