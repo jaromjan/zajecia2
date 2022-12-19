@@ -2,6 +2,7 @@ przywitaj sie grzecznie
 wlacz koparke
 podjedz koparka
 pobierz oczekiwana glebokosc dolu
+zmien lyzke jesli to potrzebne
 dopoki wielkosc dolu jest mniejsza od oczekiwanej glebokosci dolu:
 	poglebiaj dol
 odjedz koparka
